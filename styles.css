@@ -58,8 +58,11 @@ section {
   margin: 0 -2px;
 }
 
-#years span[class]{
-  font-weight:bold;
-  text-align:right;
-  width:4.5rem;
+#years span[class] {
+  font-weight: bold;
+  width: 4.5rem;
+  text-align: right;
+}
+.table-wrap{
+  padding: 0 0.75rem 1.5rem 0.75rem;
 }
