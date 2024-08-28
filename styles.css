@@ -89,8 +89,12 @@ table caption {
   left: 0.5rem;
 }
 
-tbody td{
-  width:100vw;
-  max-width:4rem;
-  min-width:4rem;
+tbody td {
+  width: 100vw;
+  min-width: 4rem;
+  max-width: 4rem;
+}
+
+tbody th{
+  width:calc(100% - 12rem);
 }
